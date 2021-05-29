@@ -1,0 +1,2 @@
+# PythonCalculator
+Python with PyQt
